@@ -14,6 +14,7 @@ int main()
 	
 	cout << "while" << endl;
 	x = min;
+	//WHILE
 	while (x <= max + h / 2)
 	{
 		y = pow(x, 3) + pow(x, 1 / 2) - 3 * c;
@@ -23,6 +24,7 @@ int main()
 
 	cout << "do...while" << endl;
 	x = min;
+	// DO WHILE
 	do
 	{
 		y = pow(x, 3) + pow(x, 1 / 2) - 3 * c;
