@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	//comment
 	int min, max;
 	float h, y, x, c;
 	
