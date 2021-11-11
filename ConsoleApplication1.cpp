@@ -8,6 +8,7 @@ int main()
 {
 	int min, max;
 	float h, y, x, c;
+	int h = 0;
 	
 	cout << "Enter [min; max], c and h" << endl;
 	cin >> min >> max >> c >> h;
